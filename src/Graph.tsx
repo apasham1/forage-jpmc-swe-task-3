@@ -7,7 +7,7 @@ import './Graph.css';
 interface IProps {
   data: ServerRespond[],
 }
-
+//hello birds
 interface PerspectiveViewerElement extends HTMLElement {
   load: (table: Table) => void,
 }
